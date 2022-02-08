@@ -111,7 +111,7 @@ questions in the comments of the `lab01.py`.
 generators `hs`, shared by all functions in this exercise.
 - The `to_challenge` function takes a number of group elements (EC points in this case), hashes them, and returns a Bn
 appropriate to be used as a challenge.
-- As usual modify the code file in the specified location. (marked by `# TODO: YOUR CODE HERE:`)
+- As usual modify the code file in the specified location. (marked by `# TODO: YOUR CODE HERE`)
 - Study the unit tests `lab04_test.py` to understand how to pass them, as well as how the functions you complete are 
 meant to be used.
 
