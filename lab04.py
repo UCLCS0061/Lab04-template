@@ -57,7 +57,7 @@ def proveKey(params, priv, pub):
 
 
 def verifyKey(params, pub, proof):
-    """ Schnorr non-interactive proof verification of knowledge of a a secret.
+    """ Schnorr non-interactive proof verification of knowledge of a secret.
         Returns a boolean indicating whether the verification was successful.
     """
     G, g, hs, o = params
