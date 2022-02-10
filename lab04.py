@@ -267,7 +267,7 @@ def test_bin_incorrect():
 # "plausible deniability" when performed with an 
 # honest verifier. The transcript of the 3 step interactive 
 # protocol could be simulated without knowledge of the secret 
-# (see Slide 12). Therefore the verifier cannot use it to prove 
+# (see Slide 14 of Week 4). Therefore the verifier cannot use it to prove 
 # to a third party that the holder of secret took part in the 
 # protocol acting as the prover.
 #
