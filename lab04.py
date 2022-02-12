@@ -263,7 +263,7 @@ def test_bin_incorrect():
 #####################################################
 # TASK Q1 - Answer the following question:
 #
-# The interactive Schnorr protocol (see Slide 9 of week 4) offers 
+# The interactive Schnorr protocol (see Slide 9 of Week 4) offers 
 # "plausible deniability" when performed with an 
 # honest verifier. The transcript of the 3 step interactive 
 # protocol could be simulated without knowledge of the secret 
