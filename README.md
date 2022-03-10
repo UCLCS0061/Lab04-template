@@ -115,14 +115,14 @@ appropriate to be used as a challenge.
 - Study the unit tests `lab04_test.py` to understand how to pass them, as well as how the functions you complete are 
 meant to be used.
 
-## TASK 01 -- Prove knowledge of a DH public key's secret. \[1 point\]
+## TASK 1 -- Prove knowledge of a DH public key's secret. \[1 point\]
 
 - You will need to implement the Schnorr protocol in its non-interactive form to prove knowledge of a private key of a
 particular public key.
 - The output of `provekey` is a pair `(c, r)`, a `Bn` challenge and a `Bn` response.
 - Study the `verifyKey` function to ensure it may verify the proof you generate.
 
-## TASK 02 -- Prove knowledge of a Discrete Log representation. \[1 point\]
+## TASK 2 -- Prove knowledge of a Discrete Log representation. \[1 point\]
 
 - You will have to use the extended Schnorr protocol to prove knowledge of all secrets and opening of a commitment.
 - Study the function `commit` to understand the structure of the commitment. Ensure you understand the role of the
@@ -131,7 +131,7 @@ opening value `r`.
 - The `proveCommitment` function is passed the commitment and the secrets (including the opening).
 It should return a proof consisting of the challenge and responses (multiple ones). 
 
-## TASK 03 -- Prove Equality of discrete logarithms. \[1 point\]
+## TASK 3 -- Prove Equality of discrete logarithms. \[1 point\]
 
 - In this task you need to implement `verifyDLEquality` the verification algorithm of the proof of equality of discrete
 logarithms of K and L.
