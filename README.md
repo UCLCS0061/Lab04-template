@@ -94,7 +94,7 @@ time you push any changes to the `main` branch of your Github repository.
 The latest score from automarking should be shown in the Readme file.
 To see the test runs, look at the Actions tab in your Github repository. 
 
-Make sure the submitted `lab01.py` file at least satisfies the tests, without the need for any external dependency 
+Make sure the submitted `lab04.py` file at least satisfies the tests, without the need for any external dependency 
 except the Python standard libraries and the Petlib library. 
 Only submissions prior to the Github Classroom deadline will be marked, so make sure you push your code in time.
 
@@ -102,7 +102,7 @@ Only submissions prior to the Github Classroom deadline will be marked, so make 
 To re-iterate, the tests passing is a necessary but not sufficient condition to fulfill each task.
 All submissions will be checked by TAs for correctness and your final marks are based on their assessment of your work.  
 For full marks, make sure you have fully filled in any sections marked with `TODO` comments, including answering any
-questions in the comments of the `lab01.py`.
+questions in the comments of the `lab04.py`.
 
 
 ## General Hints:
